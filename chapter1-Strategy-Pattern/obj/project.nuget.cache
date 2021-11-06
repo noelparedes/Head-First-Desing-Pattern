@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "VBuIL+nhVp9adEIhmT2UW3rm84TZi68b3ojuEY86kHBA+79x2r6f8+L3eRNkzBsRCVoNq7azm8kvmTVf412VNA==",
+  "success": true,
+  "projectFilePath": "D:\\REPOSITORIES\\Cursos & Practicas\\Head-First-Desing-Pattern\\chapter1-Strategy-Pattern\\chapter1-Strategy-Pattern.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\morfeoxx24\\.nuget\\packages\\microsoft.netcore.app.ref\\5.0.0\\microsoft.netcore.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\morfeoxx24\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\5.0.0\\microsoft.windowsdesktop.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\morfeoxx24\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\5.0.0\\microsoft.aspnetcore.app.ref.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
