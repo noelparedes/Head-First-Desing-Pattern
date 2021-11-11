@@ -14,7 +14,7 @@ namespace chapter1_Strategy_Pattern
             mallarDucks.swim();
             mallarDucks.display();
             Console.WriteLine("------------------");
-
+           
             Duck model = new ModelDuck();
             model.performQuack();
             model.performFly();
