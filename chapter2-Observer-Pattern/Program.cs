@@ -6,7 +6,16 @@ namespace chapter2_Observer_Pattern
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            WeatherData weatherData = new WeatherData();
+            CurrentConditionsDisplay currentDisplay = new CurrentConditionsDisplay(weatherData);
+            phoneDisplay phone = new phoneDisplay(weatherData);
+   
+           
+            weatherData.registerObserver(phone);
+            currentDisplay.update(82,70,29.4f);
+            phone.display();
+          // currentDisplay.display();
+            
         }
     }
 }

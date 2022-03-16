@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "chapter2-Observer-Pattern/1.0.0": {
+        "runtime": {
+          "chapter2-Observer-Pattern.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "chapter2-Observer-Pattern/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

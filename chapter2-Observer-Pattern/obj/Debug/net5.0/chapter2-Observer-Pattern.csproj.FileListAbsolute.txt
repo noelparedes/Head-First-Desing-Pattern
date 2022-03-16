@@ -1,0 +1,16 @@
+D:\REPOSITORIES\Cursos & Practicas\Head-First-Desing-Pattern\chapter2-Observer-Pattern\obj\Debug\net5.0\chapter2-Observer-Pattern.csproj.AssemblyReference.cache
+D:\REPOSITORIES\Cursos & Practicas\Head-First-Desing-Pattern\chapter2-Observer-Pattern\obj\Debug\net5.0\chapter2-Observer-Pattern.GeneratedMSBuildEditorConfig.editorconfig
+D:\REPOSITORIES\Cursos & Practicas\Head-First-Desing-Pattern\chapter2-Observer-Pattern\obj\Debug\net5.0\chapter2-Observer-Pattern.AssemblyInfoInputs.cache
+D:\REPOSITORIES\Cursos & Practicas\Head-First-Desing-Pattern\chapter2-Observer-Pattern\obj\Debug\net5.0\chapter2-Observer-Pattern.AssemblyInfo.cs
+D:\REPOSITORIES\Cursos & Practicas\Head-First-Desing-Pattern\chapter2-Observer-Pattern\obj\Debug\net5.0\chapter2-Observer-Pattern.csproj.CoreCompileInputs.cache
+D:\REPOSITORIES\Cursos & Practicas\Head-First-Desing-Pattern\chapter2-Observer-Pattern\bin\Debug\net5.0\chapter2-Observer-Pattern.exe
+D:\REPOSITORIES\Cursos & Practicas\Head-First-Desing-Pattern\chapter2-Observer-Pattern\bin\Debug\net5.0\chapter2-Observer-Pattern.deps.json
+D:\REPOSITORIES\Cursos & Practicas\Head-First-Desing-Pattern\chapter2-Observer-Pattern\bin\Debug\net5.0\chapter2-Observer-Pattern.runtimeconfig.json
+D:\REPOSITORIES\Cursos & Practicas\Head-First-Desing-Pattern\chapter2-Observer-Pattern\bin\Debug\net5.0\chapter2-Observer-Pattern.runtimeconfig.dev.json
+D:\REPOSITORIES\Cursos & Practicas\Head-First-Desing-Pattern\chapter2-Observer-Pattern\bin\Debug\net5.0\chapter2-Observer-Pattern.dll
+D:\REPOSITORIES\Cursos & Practicas\Head-First-Desing-Pattern\chapter2-Observer-Pattern\bin\Debug\net5.0\ref\chapter2-Observer-Pattern.dll
+D:\REPOSITORIES\Cursos & Practicas\Head-First-Desing-Pattern\chapter2-Observer-Pattern\bin\Debug\net5.0\chapter2-Observer-Pattern.pdb
+D:\REPOSITORIES\Cursos & Practicas\Head-First-Desing-Pattern\chapter2-Observer-Pattern\obj\Debug\net5.0\chapter2-Observer-Pattern.dll
+D:\REPOSITORIES\Cursos & Practicas\Head-First-Desing-Pattern\chapter2-Observer-Pattern\obj\Debug\net5.0\ref\chapter2-Observer-Pattern.dll
+D:\REPOSITORIES\Cursos & Practicas\Head-First-Desing-Pattern\chapter2-Observer-Pattern\obj\Debug\net5.0\chapter2-Observer-Pattern.pdb
+D:\REPOSITORIES\Cursos & Practicas\Head-First-Desing-Pattern\chapter2-Observer-Pattern\obj\Debug\net5.0\chapter2-Observer-Pattern.genruntimeconfig.cache

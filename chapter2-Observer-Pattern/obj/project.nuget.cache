@@ -1,12 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Js/XpzXfM7ibX6VHegYvrJWuvksI15tdf3IY3f8E9MBIp7CLFODRBC/AJpMyoLPsjVhK1zp1ryAaY3t9l8h5pw==",
+  "dgSpecHash": "6C3taoN0rhXHOFaMRkRR5vlnA1iJRR4CEcs4diQh6ozoEouUgxMSOmyFZk4J69Ml3AW1iP+pRUrPDc/cNooZkQ==",
   "success": true,
-  "projectFilePath": "d:\\REPOSITORIES\\Cursos & Practicas\\Head-First-Desing-Pattern\\chapter2-Observer-Pattern\\chapter2-Observer-Pattern.csproj",
-  "expectedPackageFiles": [
-    "C:\\Users\\morfeoxx24\\.nuget\\packages\\microsoft.netcore.app.ref\\5.0.0\\microsoft.netcore.app.ref.5.0.0.nupkg.sha512",
-    "C:\\Users\\morfeoxx24\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\5.0.0\\microsoft.windowsdesktop.app.ref.5.0.0.nupkg.sha512",
-    "C:\\Users\\morfeoxx24\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\5.0.0\\microsoft.aspnetcore.app.ref.5.0.0.nupkg.sha512"
-  ],
+  "projectFilePath": "D:\\REPOSITORIES\\Cursos & Practicas\\Head-First-Desing-Pattern\\chapter2-Observer-Pattern\\chapter2-Observer-Pattern.csproj",
+  "expectedPackageFiles": [],
   "logs": []
 }
