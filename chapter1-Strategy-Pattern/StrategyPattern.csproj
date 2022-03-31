@@ -3,7 +3,7 @@
   <PropertyGroup>
     <OutputType>Exe</OutputType>
     <TargetFramework>net5.0</TargetFramework>
-    <RootNamespace>chapter1_Strategy_Pattern</RootNamespace>
+    <RootNamespace>StrategyPattern</RootNamespace>
   </PropertyGroup>
 
 </Project>

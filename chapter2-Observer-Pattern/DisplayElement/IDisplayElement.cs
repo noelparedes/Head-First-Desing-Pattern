@@ -1,4 +1,4 @@
-namespace chapter2_Observer_Pattern.DisplayElement
+namespace Observer_Pattern.DisplayElement
 {
     public interface IDisplayElement
     {

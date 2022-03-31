@@ -6,15 +6,15 @@
   "compilationOptions": {},
   "targets": {
     ".NETCoreApp,Version=v5.0": {
-      "chapter1-Strategy-Pattern/1.0.0": {
+      "Observer-Pattern/1.0.0": {
         "runtime": {
-          "chapter1-Strategy-Pattern.dll": {}
+          "Observer-Pattern.dll": {}
         }
       }
     }
   },
   "libraries": {
-    "chapter1-Strategy-Pattern/1.0.0": {
+    "Observer-Pattern/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

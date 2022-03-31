@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "b4c75f6b-0b06-428a-9735-0b188dcb9376": {
+      "ProjectGuid": "b4c75f6b-0b06-428a-9735-0b188dcb9376",
+      "DisplayName": "chapter1-Strategy-Pattern",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

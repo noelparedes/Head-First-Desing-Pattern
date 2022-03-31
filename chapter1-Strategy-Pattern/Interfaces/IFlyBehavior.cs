@@ -1,4 +1,4 @@
-namespace chapter1_Strategy_Pattern.Interfaces
+namespace StrategyPattern.Interfaces
 {
     public interface IFlyBehavior
     {

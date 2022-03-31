@@ -1,4 +1,4 @@
-namespace chapter2_Observer_Pattern.Observer
+namespace Observer_Pattern.Observer
 {
     public interface IObserver
     {

@@ -1,0 +1,16 @@
+D:\REPOSITORIES\Cursos & Practicas\Head-First-Desing-Pattern\chapter1-Strategy-Pattern\obj\Debug\net5.0\StrategyPattern.csproj.AssemblyReference.cache
+D:\REPOSITORIES\Cursos & Practicas\Head-First-Desing-Pattern\chapter1-Strategy-Pattern\obj\Debug\net5.0\StrategyPattern.GeneratedMSBuildEditorConfig.editorconfig
+D:\REPOSITORIES\Cursos & Practicas\Head-First-Desing-Pattern\chapter1-Strategy-Pattern\obj\Debug\net5.0\StrategyPattern.AssemblyInfoInputs.cache
+D:\REPOSITORIES\Cursos & Practicas\Head-First-Desing-Pattern\chapter1-Strategy-Pattern\obj\Debug\net5.0\StrategyPattern.AssemblyInfo.cs
+D:\REPOSITORIES\Cursos & Practicas\Head-First-Desing-Pattern\chapter1-Strategy-Pattern\obj\Debug\net5.0\StrategyPattern.csproj.CoreCompileInputs.cache
+D:\REPOSITORIES\Cursos & Practicas\Head-First-Desing-Pattern\chapter1-Strategy-Pattern\bin\Debug\net5.0\StrategyPattern.exe
+D:\REPOSITORIES\Cursos & Practicas\Head-First-Desing-Pattern\chapter1-Strategy-Pattern\bin\Debug\net5.0\StrategyPattern.deps.json
+D:\REPOSITORIES\Cursos & Practicas\Head-First-Desing-Pattern\chapter1-Strategy-Pattern\bin\Debug\net5.0\StrategyPattern.runtimeconfig.json
+D:\REPOSITORIES\Cursos & Practicas\Head-First-Desing-Pattern\chapter1-Strategy-Pattern\bin\Debug\net5.0\StrategyPattern.runtimeconfig.dev.json
+D:\REPOSITORIES\Cursos & Practicas\Head-First-Desing-Pattern\chapter1-Strategy-Pattern\bin\Debug\net5.0\StrategyPattern.dll
+D:\REPOSITORIES\Cursos & Practicas\Head-First-Desing-Pattern\chapter1-Strategy-Pattern\bin\Debug\net5.0\StrategyPattern.pdb
+D:\REPOSITORIES\Cursos & Practicas\Head-First-Desing-Pattern\chapter1-Strategy-Pattern\obj\Debug\net5.0\StrategyPattern.dll
+D:\REPOSITORIES\Cursos & Practicas\Head-First-Desing-Pattern\chapter1-Strategy-Pattern\obj\Debug\net5.0\StrategyPattern.pdb
+D:\REPOSITORIES\Cursos & Practicas\Head-First-Desing-Pattern\chapter1-Strategy-Pattern\obj\Debug\net5.0\StrategyPattern.genruntimeconfig.cache
+D:\REPOSITORIES\Cursos & Practicas\Head-First-Desing-Pattern\chapter1-Strategy-Pattern\obj\Debug\net5.0\ref\StrategyPattern.dll
+D:\REPOSITORIES\Cursos & Practicas\Head-First-Desing-Pattern\chapter1-Strategy-Pattern\bin\Debug\net5.0\ref\StrategyPattern.dll

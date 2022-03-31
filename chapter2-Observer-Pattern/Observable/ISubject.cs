@@ -1,5 +1,5 @@
-using chapter2_Observer_Pattern.Observer;
-namespace chapter2_Observer_Pattern.Subject
+using Observer_Pattern.Observer;
+namespace Observer_Pattern.Subject
 {
     public interface ISubject
     {

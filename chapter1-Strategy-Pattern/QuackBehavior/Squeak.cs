@@ -1,7 +1,7 @@
 using System;
-using chapter1_Strategy_Pattern.Interfaces;
+using StrategyPattern.Interfaces;
 
-namespace chapter1_Strategy_Pattern.QuackBehavior
+namespace StrategyPattern.QuackBehavior
 {
     public class Squeak:IQuackBehavior
     {

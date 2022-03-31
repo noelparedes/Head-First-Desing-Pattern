@@ -1,14 +1,17 @@
 using System.Collections.Generic;
 using System.Collections;
+using System;
 
-using chapter2_Observer_Pattern.Subject;
-using chapter2_Observer_Pattern.Observer;
+using Observer_Pattern.Subject;
+using Observer_Pattern.Observer;
 
-namespace chapter2_Observer_Pattern
+namespace Observer_Pattern.ConcreteSubject
 {
     public class WeatherData: ISubject
     {
         private List<IObserver> observers;
+
+
         private float temperature;
         private float humidity;
         private float pressure;
@@ -21,11 +24,11 @@ namespace chapter2_Observer_Pattern
       
         public void registerObserver(IObserver observer)
         {
-            observers.Add(observer);
+            this.observers.Add(observer);
         }
         public void removeObserver(IObserver observer)
         {
-            observers.Remove(observer);
+            this.observers.Remove(observer);
         }
        public void notifyObserver()
        {
@@ -45,6 +48,8 @@ namespace chapter2_Observer_Pattern
            this.pressure = pressure;
           measurementsChanged();
        }
+
+       
 
     }
 }

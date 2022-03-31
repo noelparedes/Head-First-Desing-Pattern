@@ -15,9 +15,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\REPOSITORIES\\Cursos & Practicas\\Head-First-Desing-Pattern\\chapter2-Observer-Pattern\\chapter2-Observer-Pattern.csproj",
-      "projectName": "chapter2-Observer-Pattern",
-      "projectPath": "D:\\REPOSITORIES\\Cursos & Practicas\\Head-First-Desing-Pattern\\chapter2-Observer-Pattern\\chapter2-Observer-Pattern.csproj",
+      "projectUniqueName": "D:\\REPOSITORIES\\Cursos & Practicas\\Head-First-Desing-Pattern\\chapter2-Observer-Pattern\\Observer-Pattern.csproj",
+      "projectName": "Observer-Pattern",
+      "projectPath": "D:\\REPOSITORIES\\Cursos & Practicas\\Head-First-Desing-Pattern\\chapter2-Observer-Pattern\\Observer-Pattern.csproj",
       "packagesPath": "C:\\Users\\morfeoxx24\\.nuget\\packages\\",
       "outputPath": "D:\\REPOSITORIES\\Cursos & Practicas\\Head-First-Desing-Pattern\\chapter2-Observer-Pattern\\obj\\",
       "projectStyle": "PackageReference",

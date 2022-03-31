@@ -1,6 +1,6 @@
 ﻿using System;
-using chapter1_Strategy_Pattern.Ducks;
-using chapter1_Strategy_Pattern.FlyBehavior;
+using StrategyPattern.Ducks;
+using StrategyPattern.FlyBehavior;
 
 namespace chapter1_Strategy_Pattern
 {

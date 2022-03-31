@@ -15,9 +15,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\REPOSITORIES\\Cursos & Practicas\\Head-First-Desing-Pattern\\chapter1-Strategy-Pattern\\chapter1-Strategy-Pattern.csproj",
-      "projectName": "chapter1-Strategy-Pattern",
-      "projectPath": "D:\\REPOSITORIES\\Cursos & Practicas\\Head-First-Desing-Pattern\\chapter1-Strategy-Pattern\\chapter1-Strategy-Pattern.csproj",
+      "projectUniqueName": "D:\\REPOSITORIES\\Cursos & Practicas\\Head-First-Desing-Pattern\\chapter1-Strategy-Pattern\\StrategyPattern.csproj",
+      "projectName": "StrategyPattern",
+      "projectPath": "D:\\REPOSITORIES\\Cursos & Practicas\\Head-First-Desing-Pattern\\chapter1-Strategy-Pattern\\StrategyPattern.csproj",
       "packagesPath": "C:\\Users\\morfeoxx24\\.nuget\\packages\\",
       "outputPath": "D:\\REPOSITORIES\\Cursos & Practicas\\Head-First-Desing-Pattern\\chapter1-Strategy-Pattern\\obj\\",
       "projectStyle": "PackageReference",
@@ -63,26 +63,12 @@
         ],
         "assetTargetFallback": true,
         "warn": true,
-        "downloadDependencies": [
-          {
-            "name": "Microsoft.AspNetCore.App.Ref",
-            "version": "[5.0.0, 5.0.0]"
-          },
-          {
-            "name": "Microsoft.NETCore.App.Ref",
-            "version": "[5.0.0, 5.0.0]"
-          },
-          {
-            "name": "Microsoft.WindowsDesktop.App.Ref",
-            "version": "[5.0.0, 5.0.0]"
-          }
-        ],
         "frameworkReferences": {
           "Microsoft.NETCore.App": {
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.402\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.201\\RuntimeIdentifierGraph.json"
       }
     }
   }
